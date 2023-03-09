@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "1",
+        "category_id": "1",
+        "title": "PS-5",
+        "details": "",
+        "img": "https://i.ibb.co/r6sbhhK/ps5.jpg"
+    },
+    {
+        "_id": "2",
+        "category_id": "2",
+        "title": "Gaming keyboard",
+        "details": "",
+        "img": "https://i.ibb.co/cwS6P2D/keyboard.jpg"
+    },
+    {
+        "_id": "3",
+        "category_id": "3",
+        "title": "Vr-set",
+        "details": "",
+        "img": "https://i.ibb.co/BBqxzv7/vr-set.jpg"
+    },
+    {
+        "_id": "4",
+        "category_id": "1",
+        "title": "Xbox",
+        "details": "",
+        "img": "https://i.ibb.co/s37cRq8/xbox.jpg"
+    },
+    {
+        "_id": "5",
+        "category_id": "2",
+        "title": "Mouse",
+        "details": "",
+        "img": "https://i.ibb.co/rwKc3yw/mouse.jpg"
+    },
+    {
+        "_id": "6",
+        "category_id": "3",
+        "title": "Stearing Wheel",
+        "details": "",
+        "img": "https://i.ibb.co/w6Bghgn/pxn.jpg"
+    },
+    {
+        "_id": "7",
+        "category_id": "1",
+        "title": "Handheld",
+        "details": "",
+        "img": "https://i.ibb.co/BcWZtd6/handheld.jpg"
+    },
+    {
+        "_id": "8",
+        "category_id": "2",
+        "title": "Headphone",
+        "details": "",
+        "img": "https://i.ibb.co/LkjWkyy/headphone.jpg"
+    },
+    {
+        "_id": "9",
+        "category_id": "3",
+        "title": "Vr-headset",
+        "details": "",
+        "img": "https://i.ibb.co/5vt1XJp/vr-headset.jpg"
+    },
+    {
+        "_id": "10",
+        "category_id": "1",
+        "title": "PSP",
+        "details": "",
+        "img": "https://i.ibb.co/d5JC3Fg/psp.jpg"
+    },
+    {
+        "_id": "11",
+        "category_id": "2",
+        "title": "Graphics Card",
+        "details": "",
+        "img": "https://i.ibb.co/y8HqKT7/rtx.jpg"
+    },
+    {
+        "_id": "12",
+        "category_id": "3",
+        "title": "",
+        "details": "",
+        "img": "https://i.ibb.co/HTMSDFc/remote.jpg"
+    }
+]
